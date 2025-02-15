@@ -10,7 +10,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import static org.junit.Assert.assertTrue;
 
-
 public class TitleAndCartTest {
     private final PageObject pageObject;
     private final PlaywrightConfig playwrightConfig;
